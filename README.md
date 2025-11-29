@@ -29,9 +29,39 @@ El proyecto combina modelado 3D, programación en Godot, integración con
 -   Navegación mediante orientación del dispositivo.\
 -   Cámara doble para visión estereoscópica.
 
-## 🗺️ **Mapa del Juego**
+------------------------------------------------------------------------
 
+## 🖼️ **Galería del Proyecto**
 
+### 🗺️ Mapa del Juego
+
+``` md
+![Mapa del juego](AnyiCorp_AnyiRoad/mapa.png)
+```
+
+![Mapa del juego](AnyiCorp_AnyiRoad/mapa.png)
+
+------------------------------------------------------------------------
+
+### 🎮 Vista del Juego
+
+``` md
+![Vista del juego](AnyiCorp_AnyiRoad/vista.png)
+```
+
+![Vista del juego](AnyiCorp_AnyiRoad/vision_3d.png)
+
+------------------------------------------------------------------------
+
+### 📍 Zonas del Escenario
+
+``` md
+![Zonas del mapa](AnyiCorp_AnyiRoad/zonas.png)
+```
+
+![Zonas del mapa](AnyiCorp_AnyiRoad/zonas.png)
+
+------------------------------------------------------------------------
 
 ## 🎥 **Video de Demostración**
 
@@ -54,7 +84,11 @@ Guadalajara (UdG)**.
 👤 *Andrea Ortega* --- modelado 3D, integración VR, programación, diseño
 y ensamblaje del juego.
 
+## 📌 **Estructura del Proyecto**
 
-## 📌 **Licencia**
+    AnyiRoad/
+    │
+    ├── anyi-road-(copy)-complete # Carpeta con el proyecto en Godot Engine 4                   
+    ├── AnyiCorp_AnyiRoad/ # Carpeta con imágenes del proyecto
+    ├── README.md          
 
-Licencia pendiente (MIT sugerida para proyectos estudiantiles).
