@@ -9,11 +9,11 @@ El proyecto combina modelado 3D, programación en Godot, integración con
 
 ## 🚀 **Características Principales**
 
--   🌐 Entorno 3D estilo low-poly.\
--   🎮 Compatible con visores **Google Cardboard**.\
--   🕹️ Soporte para **control de Xbox**.\
--   🎨 Modelado en **Blender**.\
--   ⚙️ Programación realizada en **Godot Engine**.\
+-   🌐 Entorno 3D estilo low-poly.
+-   🎮 Compatible con visores **Google Cardboard**.
+-   🕹️ Soporte para **control de Xbox**.
+-   🎨 Modelado en **Blender**.
+-   ⚙️ Programación realizada en **Godot Engine**.
 -   🚗 Jugabilidad basada en esquivar autos y avanzar a través del mapa.
 
 ## 🕹️ **Controles**
