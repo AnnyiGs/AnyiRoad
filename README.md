@@ -42,30 +42,17 @@ Puedes descargar y jugar **AnyiRoad** desde su página oficial en Itch.io:
 
 ### 🗺️ Mapa del Juego
 
-``` md
-![Mapa del juego](AnyiCorp_AnyiRoad/mapa.png)
-```
-
 ![Mapa del juego](AnyiCorp_AnyiRoad/mapa.png)
 
 ------------------------------------------------------------------------
 
 ### 🎮 Vista del Juego
 
-``` md
-![Vista del juego](AnyiCorp_AnyiRoad/vista.png)
-```
-
 ![Vista del juego](AnyiCorp_AnyiRoad/vision_3d.png)
 
 ------------------------------------------------------------------------
 
 ### 📍 Zonas del Escenario
-
-``` md
-![Zonas del mapa](AnyiCorp_AnyiRoad/zonas.png)
-```
-
 ![Zonas del mapa](AnyiCorp_AnyiRoad/zonas.png)
 
 ------------------------------------------------------------------------
