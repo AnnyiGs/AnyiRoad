@@ -83,6 +83,6 @@ y ensamblaje del juego.
     AnyiRoad/
     │
     ├── anyi-road-(copy)-complete # Carpeta con el proyecto en Godot Engine 4                   
-    ├── AnyiCorp_AnyiRoad/ # Carpeta con imágenes del proyecto
+    ├── AnyiCorp_AnyiRoad # Carpeta con imágenes del proyecto
     ├── README.md          
 
