@@ -30,6 +30,13 @@ El proyecto combina modelado 3D, programación en Godot, integración con
 -   Cámara doble para visión estereoscópica.
 
 ------------------------------------------------------------------------
+## 📥 Descarga del Juego
+
+Puedes descargar y jugar **AnyiRoad** desde su página oficial en Itch.io:
+
+🔗 https://annyigs.itch.io/anyiroad
+
+------------------------------------------------------------------------
 
 ## 🖼️ **Galería del Proyecto**
 
